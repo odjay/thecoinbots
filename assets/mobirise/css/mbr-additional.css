@@ -4099,6 +4099,24 @@ a {
     padding: 2rem;
   }
 }
+.cid-t2Y2dpx5Yo {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-t2Y2dpx5Yo .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-t2Y2dpx5Yo img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-t2Y2dpx5Yo .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-sFCw1qGFAI .navbar-dropdown {
   position: relative !important;
 }
